@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+# But do NOT ignore these:
+!.gitignore
+!README.md
+!index.html
+!recipes/
+!recipes/lasagna.html
+!recipes/pizza.html
+!recipes/frenchfries.html
